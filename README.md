@@ -1,0 +1,1 @@
+This project involves a gesture detector using TinyML, interfacing an ESP32 with an MPU6050 (IMU sensor) and a self-generated dataset. It includes a neural network for classifying gestures from MPU data, optimized with FlatBuffers.
